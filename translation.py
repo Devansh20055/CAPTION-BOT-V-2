@@ -70,23 +70,32 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ , �
 🔰 <u>𝐀𝐛𝐨𝐮𝐭 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧</u>
 
 
-👉 <b>Bold text</b>
+
+👉 BOLD TEXT
       
-📌 <code>**text**</code> 
+📌 **text**    ☛ text
 
-👉 <b>Italic text</b>
+👉 ITALIC TEXT
 
-📌 <code>__text__</code> 
+📌 __text__    ☛ text
 
-👉 <b>Code text</b>
+👉 CODE TEXT
 
-📌 <code>`text`</code>   
+📌 `text`       ☛ text
+
+👉 STRIKE TEXT
+
+📌 ~~text~~    ☛ text
+
+👉 UNDERLINE TEXT
+
+📌 --text--    ☛ text  
 
 👉 <b>Hyperlink text</b>
 
 📌 <code>[hyperlink_text](https://t.me/team_silent_king/52)</code> 
 
-<b><a href="https://t.me/team_silent_king/52">TEAM SILENT KING</a></b>
+👉 <b><a href="https://t.me/team_silent_king/52">TEAM SILENT KING</a></b>
 
 """
 
