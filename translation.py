@@ -37,7 +37,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 📕 --𝐀𝐛𝐨𝐮𝐭-- --𝐌𝐞--
 
-
+<B><U><I>
 ○ ᴍʏ ɴᴀᴍᴇ : [CHANNEL MANAGER | SILENT CREATIONS](https://t.me/team_silent_king/52)
 
 ○ DEVELOPER : [🔥SILENT CREATIONS 🔥](https://t.me/team_silent_king/52)
@@ -62,7 +62,7 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ , �
 
 
 **[TEAM SILENT KING ](https://t.me/team_silent_king/52)**
-
+</B></U></I>
 """
 
       MARKDOWN_TEXT = """
